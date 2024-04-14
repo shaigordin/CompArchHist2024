@@ -1,0 +1,3 @@
+# Credits
+
+Materials in unit 01 of this course were adapted from [Data Analysis and Visualization in R for Archaeologists](https://github.com/alisonrclarke/R-archaeology-lesson).
